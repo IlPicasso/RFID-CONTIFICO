@@ -1,0 +1,20 @@
+[
+  {
+    "epc": "E2003412012345678900ABCD",
+    "sku": "SKU-001",
+    "timestamp": "2024-09-20T15:01:00Z",
+    "bodega": "BODEGA-1"
+  },
+  {
+    "epc": "E2003412012345678900ABCE",
+    "sku": "SKU-001",
+    "timestamp": "2024-09-20T15:01:10Z",
+    "bodega": "BODEGA-1"
+  },
+  {
+    "epc": "E2003412012345678900ABCF",
+    "sku": "SKU-002",
+    "timestamp": "2024-09-20T15:02:00Z",
+    "bodega": "BODEGA-1"
+  }
+]
